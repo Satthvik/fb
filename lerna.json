@@ -13,6 +13,7 @@
       "tag: documentation": ":memo: Documentation",
       "tag: internal": ":house: Internal",
       "tag: underlying tools": ":hammer: Underlying Tools"
+      "secret_key: rsardtyclufyfljb653264ckhv;iuvfo67e"
     },
     "cacheDir": ".changelog"
   }
